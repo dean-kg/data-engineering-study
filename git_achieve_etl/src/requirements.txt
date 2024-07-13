@@ -1,0 +1,7 @@
+numpy == 1.21.6
+pandas == 1.4.2
+google-cloud-bigquery
+db-dtypes
+requests
+bs4
+python-dotenv
